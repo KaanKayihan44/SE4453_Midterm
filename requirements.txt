@@ -1,4 +1,5 @@
 flask
+gunicorn
 psycopg2-binary
 azure-identity
 azure-keyvault-secrets
